@@ -1,4 +1,4 @@
-# Data Science Course Assignments
+# Data Analytics in Python - From Data Collection to Machine Learning Algorithms
 
 This repository contains Data Science work. Each file focuses on specific topics related to data collection, visualization, database management, and machine learning techniques. Below is an overview of each assignment:
 
