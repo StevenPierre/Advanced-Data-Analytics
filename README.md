@@ -1,16 +1,46 @@
-<h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">A bridge between technical and non-technical stakeholders.</h3>
+# Data Science Course Assignments
 
-- 🔭 I’m currently working on **Python Project**
+This repository contains Data Science work. Each file focuses on specific topics related to data collection, visualization, database management, and machine learning techniques. Below is an overview of each assignment:
 
-- 👨‍💻 All of my projects are available at [https://github.com/StevenPierre](https://github.com/StevenPierre)
+## Collecting & Visualizing Data, SQLite, D3 Warmup, OpenRefine
 
-- 📫 How to reach me **stevendestine@gmail.com**
+This covers fundamental concepts in data science, including data collection, visualization, and basic tools such as SQLite, D3 for graphing, and OpenRefine for data cleaning.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Tasks:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+- **Data Collection:** Gather and preprocess data from various sources.
+- **SQLite:** Utilize SQLite for database management tasks.
+- **D3 Warmup:** Create basic visualizations using D3.
+- **OpenRefine:** Clean and transform data using OpenRefine.
+
+## D3 Graphs and Visualization
+
+Building upon the D3 warmup, this delves deeper into creating interactive and informative visualizations using D3.
+
+### Tasks:
+
+- **Advanced D3 Graphs:** Develop more complex and interactive visualizations.
+- **Visualization Best Practices:** Apply best practices for effective data representation.
+- **Data Storytelling:** Use visualizations to tell a compelling data story.
+
+## Spark, Docker, DataBricks, Cloud Services (AWS, Azure, GCP)
+
+Explore distributed computing, containerization, and cloud services in this assignment. Topics include Apache Spark, Docker, DataBricks, and cloud platforms like AWS, Azure, and GCP.
+
+### Tasks:
+
+- **Apache Spark:** Implement data processing using Apache Spark.
+- **Docker:** Containerize applications for efficient deployment.
+- **DataBricks:** Use DataBricks for collaborative big data analytics.
+- **Cloud Services:** Deploy and manage services on AWS, Azure, and GCP.
+
+## PageRank, Random Forest, Scikit-Learn
+
+This focuses on advanced machine learning techniques, including PageRank algorithm, Random Forest, and utilizing the Scikit-Learn library.
+
+### Tasks:
+
+- **PageRank:** Implement and analyze the PageRank algorithm for graph ranking.
+- **Random Forest:** Explore and apply Random Forest for ensemble learning.
+- **Scikit-Learn:** Use Scikit-Learn for machine learning tasks and evaluation.
 
